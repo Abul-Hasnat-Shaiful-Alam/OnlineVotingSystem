@@ -1,0 +1,7 @@
+/* CSS Document */
+body { margin:auto; width:700px;}
+.menu{ list-style:none; margin:0; padding:0;}
+.menu li{width:98%; padding:4px 0 0 4px; }
+.menu li a{text-decoration:none; font-weight:bold; color:#FF0000;}
+.menu li:hover {background:#FFFF99;}
+.menu li a:hover { color:#009900;}
